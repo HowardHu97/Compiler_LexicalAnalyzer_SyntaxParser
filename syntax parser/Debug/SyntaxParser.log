@@ -1,0 +1,23 @@
+﻿  TableStack.cpp
+c:\users\hhz\desktop\syntaxparser\syntaxparser\tablestack.cpp(28): warning C4305: “参数”: 从“int”到“const char”截断
+c:\users\hhz\desktop\syntaxparser\syntaxparser\tablestack.cpp(28): warning C4309: “参数”: 截断常量值
+c:\users\hhz\desktop\syntaxparser\syntaxparser\tablestack.cpp(52): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\hhz\desktop\syntaxparser\syntaxparser\tablestack.cpp(99): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\hhz\desktop\syntaxparser\syntaxparser\tablestack.cpp(104): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\hhz\desktop\syntaxparser\syntaxparser\tablestack.cpp(107): warning C4018: “<”: 有符号/无符号不匹配
+  Base.cpp
+c:\users\hhz\desktop\syntaxparser\syntaxparser\base.cpp(11): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\hhz\desktop\syntaxparser\syntaxparser\base.cpp(20): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\hhz\desktop\syntaxparser\syntaxparser\base.cpp(41): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\hhz\desktop\syntaxparser\syntaxparser\base.cpp(137): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\hhz\desktop\syntaxparser\syntaxparser\base.cpp(143): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\hhz\desktop\syntaxparser\syntaxparser\base.cpp(147): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\hhz\desktop\syntaxparser\syntaxparser\base.cpp(154): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\hhz\desktop\syntaxparser\syntaxparser\base.cpp(169): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\hhz\desktop\syntaxparser\syntaxparser\base.cpp(186): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\hhz\desktop\syntaxparser\syntaxparser\base.cpp(191): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\hhz\desktop\syntaxparser\syntaxparser\base.cpp(198): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\hhz\desktop\syntaxparser\syntaxparser\base.cpp(208): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\hhz\desktop\syntaxparser\syntaxparser\base.cpp(218): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  SyntaxParser.vcxproj -> C:\Users\hhz\Desktop\SyntaxParser\Debug\SyntaxParser.exe
