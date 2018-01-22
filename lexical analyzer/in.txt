@@ -1,0 +1,36 @@
+#include "stdafx.h"
+#include<iostream>
+#include "List.h"
+using namespace std;
+void CPPList::append(int a) {
+	if (flag) {
+		head->data = a;
+		flag = false;
+		return;
+	}
+	current->nextNode = new CPPList(a);
+	current = current->nextNode;
+	current->nextNode = last;
+}
+void CPPList::remove(CPPList *temp) {
+	CPPList *q;
+	CPPList *p;
+	if (temp == NULL) {
+		return;
+	}
+	else if (head == temp) {
+		head = temp->nextNode;
+
+	}
+	else {
+		p = q = this->begin();
+		while (p != temp) {
+			q = p;
+			p = p->nextNode;
+		}
+		q->nextNode = temp->nextNode;
+	}
+
+}
+
+
