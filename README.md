@@ -1,3 +1,4 @@
-# Lexical-Analyzer
-编译原理 Lab1 
-南京大学软件学院
+Compiler
+This project consists of two parts including lexical analyzer and syntax parser, which are the labs from the course of compile principle.
+
+Nanjing University Software Institute
